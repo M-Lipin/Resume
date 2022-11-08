@@ -39,6 +39,7 @@
 ## Commercial experience
 
 **2018 - 2022**:
+
 Lead and seniority in **Limeade for Microsoft Teams** - app to track the actvities in various aspects of work and life.
 _My and my team work_: Implemented the app from scratch that fully integrated into MS Teams messenger and replaces the web app.
 

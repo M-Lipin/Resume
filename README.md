@@ -1,12 +1,12 @@
 
 # Mikhail Lipin
 
-Experience in C#, Java. JavaScript and other programming languages.
-Proficient in data modeling, problem-solving and enterprise development.
-Practice with SQL and no-SQL databases (including MSSQL, MySQL, MongoDB)
-Web app, desktop and mobile development using mainly .NET, but easie to switch to another platform.
-Dev from scratch, bugfixing, maintaining, full test covering and CI.
-Communication skills. Can work alone or in team including leading the process.
+- Experience in C#, Java. JavaScript and other programming languages.
+- Proficient in data modeling, problem-solving and enterprise development.
+- Practice with SQL and no-SQL databases (including MSSQL, MySQL, MongoDB)
+- Web app, desktop and mobile development using mainly .NET, but easie to switch to another platform.
+- Dev from scratch, bugfixing, maintaining, full test covering and CI.
+- Communication skills. Can work alone or in team including leading the process.
 
 ## Technologies
 
